@@ -1,0 +1,6 @@
+{
+  "name": "Hostel Complaint Management System",
+  "description": "A student-centric hostel grievance and maintenance resolution platform with room & USN tracking, photo documentation, and live status pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
